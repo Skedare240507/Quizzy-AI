@@ -1,0 +1,25 @@
+<svg width="250" height="250" viewBox="0 0 250 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="primaryGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3b82f6" />    <!-- blue-500 -->
+      <stop offset="50%" stop-color="#8b5cf6" />    <!-- violet-500 -->
+      <stop offset="100%" stop-color="#d946ef" />   <!-- fuchsia-500 -->
+    </linearGradient>
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="15" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Outer Glow Ring -->
+  <circle cx="125" cy="125" r="85" fill="none" stroke="url(#primaryGrad)" stroke-width="6" opacity="0.3" filter="url(#softGlow)" />
+  
+  <!-- Outer Ring Base -->
+  <circle cx="125" cy="125" r="85" fill="none" stroke="url(#primaryGrad)" stroke-width="6" opacity="0.9" />
+
+  <!-- Inner Hub -->
+  <circle cx="125" cy="125" r="55" fill="url(#primaryGrad)" />
+
+  <!-- Core Lightning / Spark -->
+  <path d="M135 90 L105 130 H125 L115 160 L155 115 H130 L135 90 Z" fill="white" />
+</svg>

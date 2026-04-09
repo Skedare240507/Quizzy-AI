@@ -1,0 +1,339 @@
+{
+  "profile": {
+    "name": "Sahil",
+    "email": "sahil@gmail.com",
+    "bio": "AI Learning Enthusiast"
+  },
+  "history": [
+    {
+      "title": "The history of India is rich and diverse...",
+      "type": "Flash",
+      "data": [
+        {
+          "front": "Indus Valley Civilization",
+          "back": "One of the earliest civilizations in India, flourished around 2500 BCE in cities like Harappa and Mohenjo-daro."
+        },
+        {
+          "front": "Maurya Empire",
+          "back": "One of the largest empires in ancient India, founded by Chandragupta Maurya, with Ashoka spreading Buddhism after the Kalinga War."
+        },
+        {
+          "front": "Mughal Empire",
+          "back": "Founded by Babur in 1526, played a significant role in shaping Indian culture and architecture, with notable rulers like Akbar and Shah Jahan."
+        },
+        {
+          "front": "Revolt of 1857",
+          "back": "Also known as the First War of Independence, one of the earliest major uprisings against British rule in India."
+        },
+        {
+          "front": "India's Independence",
+          "back": "Gained on August 15, 1947, with Jawaharlal Nehru becoming the first Prime Minister of independent India, after a long freedom struggle led by Mahatma Gandhi and others."
+        }
+      ],
+      "id": "baknym75h",
+      "date": "4/9/2026, 8:45:18 PM"
+    },
+    {
+      "title": "Computer science and engineering (COEP)",
+      "type": "Quiz",
+      "data": [
+        {
+          "question": "Which college offers Robotics and artificial intelligence?",
+          "options": [
+            "VJTI",
+            "COEP",
+            "PICT",
+            "WCE"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which of the following colleges offer Electronics and telecommunication?",
+          "options": [
+            "COEP and VJTI",
+            "PICT and WCE",
+            "GECA and PCCOE",
+            "Only VJTI"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which college offers Manufacturing science and engineering?",
+          "options": [
+            "VJTI",
+            "COEP",
+            "PICT",
+            "WCE"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which college offers Metallurgy and material technology?",
+          "options": [
+            "VJTI",
+            "COEP",
+            "PICT",
+            "WCE"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which of the following colleges offer Computer science and engineering with specialization in Artificial intelligence and Machine Learning?",
+          "options": [
+            "PCCOE and VIT",
+            "PICT and COEP",
+            "WCE and GECA",
+            "Only PCCOE"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which college offers Textile technology?",
+          "options": [
+            "VJTI",
+            "COEP",
+            "PICT",
+            "WCE"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which of the following colleges offer Information technology?",
+          "options": [
+            "COEP and VJTI",
+            "PICT and WCE",
+            "GECA and PCCOE",
+            "All of the above"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "question": "Which college offers Instrumentation and control engineering?",
+          "options": [
+            "VJTI",
+            "COEP",
+            "PICT",
+            "WCE"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which college offers Production engineering [sandwich]?",
+          "options": [
+            "VJTI",
+            "COEP",
+            "PICT",
+            "WCE"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which of the following colleges offer Computer engineering?",
+          "options": [
+            "PCCOE and VIT",
+            "PICT and COEP",
+            "WCE and GECA",
+            "P.E.S.Modern and AISSMS COE"
+          ],
+          "correctAnswer": 3
+        }
+      ],
+      "id": "phkbuisxw",
+      "date": "4/9/2026, 7:50:18 PM"
+    },
+    {
+      "title": "Error: Failed to read PDF: pdf is not a ...",
+      "type": "Flash",
+      "data": [
+        {
+          "front": "Error Message",
+          "back": "Failed to read PDF"
+        },
+        {
+          "front": "PDF Issue",
+          "back": "pdf is not a function"
+        },
+        {
+          "front": "Document Type",
+          "back": "photo of a document"
+        },
+        {
+          "front": "Solution",
+          "back": "paste the text manually"
+        },
+        {
+          "front": "Function Error",
+          "back": "pdf is not a function"
+        },
+        {
+          "front": "Document Error",
+          "back": "Failed to read PDF"
+        },
+        {
+          "front": "Manual Solution",
+          "back": "paste the text manually"
+        },
+        {
+          "front": "PDF Function",
+          "back": "pdf is not a function"
+        },
+        {
+          "front": "Text Input",
+          "back": "paste the text manually"
+        },
+        {
+          "front": "Error Resolution",
+          "back": "paste the text manually to resolve the PDF error"
+        }
+      ],
+      "id": "nfre7tydx",
+      "date": "4/9/2026, 7:45:37 PM"
+    },
+    {
+      "title": "The history of India is rich and diverse...",
+      "type": "Quiz",
+      "data": [
+        {
+          "question": "Which civilization is considered one of the earliest in India?",
+          "options": [
+            "Maurya Empire",
+            "Mughal Empire",
+            "Indus Valley Civilization",
+            "British Empire"
+          ]
+        },
+        {
+          "question": "Who founded the Maurya Empire?",
+          "options": [
+            "Ashoka",
+            "Chandragupta Maurya",
+            "Babur",
+            "Akbar"
+          ]
+        },
+        {
+          "question": "What is Ashoka remembered for?",
+          "options": [
+            "Conquering the Kalinga War",
+            "Spreading Buddhism after the Kalinga War",
+            "Building the Taj Mahal",
+            "Founding the Mughal Empire"
+          ]
+        },
+        {
+          "question": "Who founded the Mughal Empire in 1526?",
+          "options": [
+            "Babur",
+            "Akbar",
+            "Shah Jahan",
+            "Chandragupta Maurya"
+          ]
+        },
+        {
+          "question": "What is the name of the famous monument built by Shah Jahan?",
+          "options": [
+            "Taj Mahal",
+            "Red Fort",
+            "Qutub Minar",
+            "India Gate"
+          ]
+        },
+        {
+          "question": "What event occurred in 1857 against British rule?",
+          "options": [
+            "The Revolt of 1857",
+            "The First War of Independence",
+            "The Indian National Army",
+            "All of the above"
+          ]
+        },
+        {
+          "question": "Who promoted non-violence and civil disobedience in India's freedom struggle?",
+          "options": [
+            "Mahatma Gandhi",
+            "Subhas Chandra Bose",
+            "Jawaharlal Nehru",
+            "Ashoka"
+          ]
+        },
+        {
+          "question": "Who led the Indian National Army?",
+          "options": [
+            "Subhas Chandra Bose",
+            "Mahatma Gandhi",
+            "Jawaharlal Nehru",
+            "Chandragupta Maurya"
+          ]
+        },
+        {
+          "question": "When did India gain independence from British rule?",
+          "options": [
+            "August 15, 1945",
+            "August 15, 1947",
+            "August 15, 1950",
+            "August 15, 1955"
+          ]
+        },
+        {
+          "question": "Who became the first Prime Minister of independent India?",
+          "options": [
+            "Jawaharlal Nehru",
+            "Mahatma Gandhi",
+            "Subhas Chandra Bose",
+            "Chandragupta Maurya"
+          ]
+        }
+      ],
+      "id": "lytg1a34k",
+      "date": "4/9/2026, 7:23:23 PM"
+    },
+    {
+      "title": "The history of India is rich and diverse...",
+      "type": "Flash",
+      "data": [
+        {
+          "front": "Indus Valley Civilization",
+          "back": "One of the earliest civilizations in India, flourished around 2500 BCE in cities like Harappa and Mohenjo-daro."
+        },
+        {
+          "front": "Maurya Empire",
+          "back": "One of the largest empires in ancient India, founded by Chandragupta Maurya."
+        },
+        {
+          "front": "Ashoka",
+          "back": "Remembered for spreading Buddhism after the Kalinga War, grandson of Chandragupta Maurya."
+        },
+        {
+          "front": "Mughal Empire",
+          "back": "Played a significant role in shaping Indian culture and architecture, founded by Babur in 1526."
+        },
+        {
+          "front": "Babur",
+          "back": "Founded the Mughal Empire in 1526 after winning the First Battle of Panipat."
+        },
+        {
+          "front": "Taj Mahal",
+          "back": "Built by Shah Jahan in memory of his wife, a famous monument in India."
+        },
+        {
+          "front": "Revolt of 1857",
+          "back": "Also known as the First War of Independence, one of the earliest major uprisings against British rule."
+        },
+        {
+          "front": "Mahatma Gandhi",
+          "back": "Promoted non-violence and civil disobedience in India's freedom struggle."
+        },
+        {
+          "front": "Subhas Chandra Bose",
+          "back": "Advocated a more aggressive approach and led the Indian National Army during the freedom struggle."
+        },
+        {
+          "front": "India's Independence",
+          "back": "Gained independence from British rule on August 15, 1947, with Jawaharlal Nehru as the first Prime Minister."
+        }
+      ],
+      "id": "mbm84tkj6",
+      "date": "4/9/2026, 7:22:10 PM"
+    }
+  ]
+}

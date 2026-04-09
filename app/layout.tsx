@@ -1,5 +1,4 @@
 import { Geist, Geist_Mono, Inter } from "next/font/google"
-
 import "./globals.css"
 import { ThemeProvider } from "@/components/theme-provider"
 import { cn } from "@/lib/utils";
@@ -10,6 +9,14 @@ const fontMono = Geist_Mono({
   subsets: ["latin"],
   variable: "--font-mono",
 })
+
+export const metadata = {
+  title: "Quizzy AI - Intelligent Study Assistant",
+  description: "Generate quizzes and flashcards instantly with AI.",
+  icons: {
+    icon: "/logo.png",
+  },
+};
 
 export default function RootLayout({
   children,
@@ -22,7 +29,7 @@ export default function RootLayout({
       suppressHydrationWarning
       className={cn("antialiased", fontMono.variable, "font-sans", inter.variable)}
     >
-      <body>
+      <body suppressHydrationWarning>
         <ThemeProvider>{children}</ThemeProvider>
       </body>
     </html>
